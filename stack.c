@@ -41,7 +41,7 @@ int main()
     }
     if(choice==2)
     {
-    printf("pop element");
+    printf("pop element\n");
     pop();
 
 }
