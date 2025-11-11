@@ -56,7 +56,7 @@ void display()
         scanf("%d",&size);
         do
         {
-            printf("\tenter the choice:\n");
+            printf("\nenter the choice:\n");
             printf("\n1.enqueue \n2.dequeue \n3.display \n4.exit \n");
             scanf("%d",&choice);
             switch(choice)
